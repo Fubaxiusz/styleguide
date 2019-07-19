@@ -7,7 +7,9 @@ easier to understand a large codebase when all the code in it is in a
 consistent style.
 
 “Style” covers a lot of ground, from “use camelCase for variable names” to
-“never use global variables” to “never use exceptions.”
+“never use global variables” to “never use exceptions.” This project
+([google/styleguide](https://github.com/google/styleguide)) links to the
+original style guidelines from Google.
 
 This project holds the Java Style Guide.
 If your project requires that you create a new XML document format, the [XML
