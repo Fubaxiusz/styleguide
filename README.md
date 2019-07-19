@@ -7,7 +7,7 @@ easier to understand a large codebase when all the code in it is in a
 consistent style.
 
 “Style” covers a lot of ground, from “use camelCase for variable names” to
-“never use global variables” to “never use exceptions.” This project
+“never use global variables” to “never use exceptions.” This 
 ([google/styleguide](https://github.com/google/styleguide)) links to the
 original style guidelines from Google.
 
