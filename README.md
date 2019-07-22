@@ -12,7 +12,9 @@ consistent style.
 original style guidelines from Google.
 
 This project holds highly-modified [Java Style Guide][java] and [C/C++ Style Guide][cpp] for [Eclipse][ecp], that's easy to read and awsome.
-To read more about importing style guides, visit [Eclipse Documentation][impr] site.
+There's also [Dark Color Theme][thme] for Code Editor and UI.
+Read this awsome [Color Theme Import Guide][gide] by [TjWallas](http://tjwallas.root.sx/about.html) to get started.
+To read about importing style guides, visit [Eclipse Documentation][impr] site.
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
@@ -27,6 +29,8 @@ See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 
 [java]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-java-jmf-style.xml
 [cpp]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-cpp-jmf-style.xml
+[thme]: https://github.com/Fubaxiusz/styleguide/blob/master/theme
+[gide]: http://tjwallas.root.sx/tech/how-to-make-import-and-export-eclipse-color-themes
 [impr]: https://help.eclipse.org/neon/index.jsp?topic=%2Forg.eclipse.jdt.doc.user%2Freference%2Fpreferences%2Fjava%2Fcodestyle%2Fref-preferences-formatter.htm
 [ecp]: https://www.eclipse.org
 [xml]: https://google.github.io/styleguide/xmlstyle.html
