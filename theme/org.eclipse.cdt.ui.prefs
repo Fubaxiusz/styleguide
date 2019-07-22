@@ -39,5 +39,6 @@ semanticHighlighting.udlSuffix.color=255,0,0
 semanticHighlighting.udlSuffix.enabled=true
 sourceHoverBackgroundColor=44,49,53
 spelling_locale_initialized=true
+stickyOccurrences=false
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true

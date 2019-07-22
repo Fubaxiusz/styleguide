@@ -215,5 +215,6 @@ spelling_ignore_urls=true
 spelling_locale_initialized=true
 spelling_user_dictionary=D\:\\JMF\\Dokumenty\\User dictionary.txt
 spelling_user_dictionary_encoding=
+stickyOccurrences=false
 useAnnotationsPrefPage=true
 useQuickDiffPrefPage=true
