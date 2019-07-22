@@ -11,7 +11,7 @@ consistent style.
 ([google/styleguide](https://github.com/google/styleguide)) links to the
 original style guidelines from Google.
 
-This project holds highly-modified [Java Style Guide][java] for [Eclipse][ecp], that's easy to read and awsome.
+This project holds highly-modified [Java Style Guide][java] and [C/C++ Style Guide][cpp] for [Eclipse][ecp], that's easy to read and awsome.
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
@@ -25,6 +25,7 @@ See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 <a rel="license" href="https://creativecommons.org/licenses/by/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/88x31.png" /></a>
 
 [java]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-java-jmf-style.xml
+[cpp]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-cpp-jmf-style.xml
 [ecp]: https://www.eclipse.org
 [xml]: https://google.github.io/styleguide/xmlstyle.html
 [ccl]: https://creativecommons.org/licenses/by/3.0/
