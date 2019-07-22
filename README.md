@@ -13,7 +13,8 @@ original style guidelines from Google.
 
 This project holds highly-modified [Java Style Guide][java] and [C/C++ Style Guide][cpp] for [Eclipse][ecp], that's easy to read and awsome.
 There's also [Dark Color Theme][thme] for Code Editor and UI.
-Read this awsome [Color Theme Import Guide][gide] by [TjWallas](http://tjwallas.root.sx/about.html) to get started.
+
+Read this awsome [Color Theme Import Guide][gide] by [TjWallas](http://tjwallas.root.sx/about.html) to get started with Color Theme import.
 To read about importing style guides, visit [Eclipse Documentation][impr] site.
 
 If your project requires that you create a new XML document format, the [XML
