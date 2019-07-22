@@ -12,7 +12,6 @@ consistent style.
 original style guidelines from Google.
 
 This project holds highly-modified [Java Style Guide][java] and [C/C++ Style Guide][cpp] for [Eclipse][ecp], that's easy to read and awsome.
-There's also [Eclipse Preferences File][pref] that combines all into one (code styles, editor behavior, color schemes and key preferences).
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
@@ -27,7 +26,6 @@ See [https://creativecommons.org/licenses/by/3.0/][ccl] for more details.
 
 [java]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-java-jmf-style.xml
 [cpp]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-cpp-jmf-style.xml
-[pref]: https://github.com/Fubaxiusz/styleguide/blob/master/eclipse-jmf-preferences.epf
 [ecp]: https://www.eclipse.org
 [xml]: https://google.github.io/styleguide/xmlstyle.html
 [ccl]: https://creativecommons.org/licenses/by/3.0/
