@@ -12,7 +12,7 @@ consistent style.
 original style guidelines from Google.
 
 This project holds highly-modified [Java Style Guide][java] and [C/C++ Style Guide][cpp] for [Eclipse][ecp], that's easy to read and awsome.
-There's also [Eclipse preferences file][pref] that combines all code styles, editor behavior, color schemes and key preferences into one.
+There's also [Eclipse Preferences File][pref] that combines all into one (code styles, editor behavior, color schemes and key preferences).
 
 If your project requires that you create a new XML document format, the [XML
 Document Format Style Guide][xml] may be helpful. In addition to actual style
