@@ -1,5 +1,6 @@
 asm_directive=176,0,176
 asm_label=176,0,176
+buildConsoleInfoStreamColor=62,111,255
 c_braces=176,0,176
 c_comment_task_tag=80,200,120
 c_comment_task_tag_italic=true
