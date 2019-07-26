@@ -21,6 +21,7 @@ showLeadingIdeographicSpaces=false
 showLineFeed=false
 showTrailingIdeographicSpaces=false
 showWhitespaceCharacters=true
+spellingEngine=org.eclipse.jdt.internal.ui.text.spelling.DefaultSpellingEngine
 tabWidth=3
 thcoverage_stylePreferences=NONE
 thcoverage_text=false
