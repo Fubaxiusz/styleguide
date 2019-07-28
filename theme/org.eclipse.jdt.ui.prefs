@@ -83,6 +83,7 @@ content_assist_proposals_foreground=255,255,255
 content_assist_show_visible_proposals=true
 content_assist_sorter=org.eclipse.jdt.ui.RelevanceSorter
 eclipse.preferences.version=1
+editor_folding_default_javadoc=true
 editor_save_participant_org.eclipse.jdt.ui.postsavelistener.cleanup=false
 formatter_profile=_GoogleStyle JMF edited
 formatter_settings_version=16
