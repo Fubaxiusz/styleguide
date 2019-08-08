@@ -1,12 +1,11 @@
-AbstractTextEditor.Color.Background=34,34,34
-AbstractTextEditor.Color.Background.SystemDefault=false
+AbstractTextEditor.Color.Background=40,41,35
 AbstractTextEditor.Color.SelectionBackground=44,62,116
 AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
-AbstractTextEditor.Color.SelectionForeground=183,201,255
+AbstractTextEditor.Color.SelectionForeground=179,175,156
 AbstractTextEditor.Color.SelectionForeground.SystemDefault=false
-currentLineColor=41,39,33
+currentLineColor=42,42,42
 eclipse.preferences.version=1
-lineNumberColor=127,14,14
+lineNumberColor=144,145,139
 occurrenceIndicationColor=121,21,21
 org.eclipse.cdt.ui.occurrenceIndicationColor=121,21,21
 org.eclipse.cdt.ui.writeOccurrenceIndicationColor=99,54,108
